@@ -310,6 +310,25 @@
       "symbol": "WC4EI"
     }
   },
+  "21133": {
+    "name": "All About Health",
+    "rpc": "https://rpc.c4ex.net/",
+    "chainId": 21133,
+    "explorer": "https://exp.c4ex.net",
+    "color": "#3BEB28",
+    "storage": "0x8d2296a910cfa88fc812498c8b40412c8ed6f31b",
+    "multicall": "0x8e3b63200b567e54c22b77449a0874c97c56972d",
+    "baseCurrency": {
+      "decimals": 18,
+      "name": "AAH",
+      "symbol": "AAH"
+    },
+    "wrappedToken": {
+      "address": "0xd1788539351d7abeafe632dbc5c364f72a2ad149",
+      "name": "Wrapped AAH",
+      "symbol": "WAAH"
+    }
+  },
   "97": {
     "name": "BSC testnet",
     "rpc": "https://data-seed-prebsc-1-s2.binance.org:8545",
