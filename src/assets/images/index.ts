@@ -1,5 +1,7 @@
 import ETH from './eth.png'
 import BNB from './bnb.png'
+import AAH from './aah.png'
+import C4EI from './c4ei.png'
 import MATIC from './matic.png'
 import ARBITRUM from './arbitrum.png'
 import OPTIMISTIC_ETH from './optimisticEth.svg'
@@ -33,6 +35,8 @@ export const CURRENCY = {
   SCROLL_ETH,
   ETH,
   BNB,
+  AAH,
+  C4EI,
   MATIC,
   ARBITRUM,
   OPTIMISTIC_ETH,
@@ -67,6 +71,8 @@ export const CURRENCY = {
   5: ETH,
   42: ETH,
   56: BNB,
+  21133: AAH,
+  21004: C4EI,
   97: BNB,
   137: MATIC,
   80001: MATIC,
