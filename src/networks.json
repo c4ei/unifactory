@@ -296,7 +296,7 @@
     "name": "C4EI",
     "rpc": "https://rpc.c4ei.net/",
     "chainId": 21004,
-    "explorer": "https://exp.c4ei.net/",
+    "explorer": "https://exp.c4ei.net",
     "color": "#8247E5",
     "storage": "0x8d2296a910cfa88fc812498c8b40412c8ed6f31b",
     "multicall": "0x8e3b63200b567e54c22b77449a0874c97c56972d",

@@ -14,8 +14,10 @@ export const AVALANCHE_TESTNET_ID = 43113
 export const POLIGON_ZKEVM_TESTNET_ID = 1442
 export const GOERLI_ID = 5
 export const AAH_ID = 21133
+export const C4EI_ID = 21004
 
-export const STORAGE_NETWORK_ID = process.env.NODE_ENV === 'production' ? AAH_ID : GOERLI_ID
+// export const STORAGE_NETWORK_ID = process.env.NODE_ENV === 'production' ? AAH_ID : GOERLI_ID
+export const STORAGE_NETWORK_ID = process.env.NODE_ENV === 'production' ? C4EI_ID : GOERLI_ID
 export const STORAGE_NETWORK_NAME = networks[STORAGE_NETWORK_ID.toString() as NetworksId].name
 // @ts-ignore
 export const STORAGE = networks[STORAGE_NETWORK_ID.toString() as NetworksId].storage
