@@ -298,15 +298,16 @@
     "chainId": 21004,
     "explorer": "https://exp.c4ei.net/",
     "color": "#8247E5",
-    "multicall": "0x60f48cEF903cFe08BE451470e8B6dA6E12A41083",
+    "storage": "0x8d2296a910cfa88fc812498c8b40412c8ed6f31b",
+    "multicall": "0x8e3b63200b567e54c22b77449a0874c97c56972d",
     "baseCurrency": {
       "decimals": 18,
-      "name": "C4ei",
+      "name": "C4EI",
       "symbol": "C4EI"
     },
     "wrappedToken": {
-      "address": "0x4b1f75a8681Faa3833e3B214FC20BAcd91c421D8",
-      "name": "Wrapped C4ei",
+      "address": "0xd1788539351d7abeafe632dbc5c364f72a2ad149",
+      "name": "Wrapped C4EI",
       "symbol": "WC4EI"
     }
   },
